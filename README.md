@@ -3,8 +3,6 @@ This project features my submissions for the Workout Wednesday challenges using 
 
 Each Wednesday a challenges are released and participants are asked to replicate the challenge that is posed as closely as possible.
 
-## Dataset 
-The project used a superstore dataset sourced from data.world. The link can be found here: https://data.world/stanke/sample-superstore-20204
-
 ## Data Visualization
-My visualization can be found here: https://public.tableau.com/app/profile/zoe.philip.iyawa/viz/MyWorkoutwednesdaychallenge/Dashboard1
+Challenges finished:
+1. 2020 Week 53: My visualization can be found here: https://public.tableau.com/app/profile/zoe.philip.iyawa/viz/MyWorkoutwednesdaychallenge/Dashboard1
