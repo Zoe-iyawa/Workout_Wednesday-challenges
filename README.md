@@ -6,3 +6,4 @@ Each Wednesday a challenges are released and participants are asked to replicate
 ## Data Visualization
 Challenges finished:
 1. 2020 Week 53: My visualization can be found here: https://public.tableau.com/app/profile/zoe.philip.iyawa/viz/MyWorkoutwednesdaychallenge/Dashboard1
+2. 2023 Week 47: My visualization can be found here: https://public.tableau.com/app/profile/zoe.philip.iyawa/viz/2023Week47/Dashboard1
